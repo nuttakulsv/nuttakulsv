@@ -1,6 +1,6 @@
 # Hi there, I'm Nuttakul Suvanich (Palm) 👋
 
-Senior Full Stack Engineer with 8+ years of experience building web applications and backend APIs. Strong in the Next.js–NestJS stack and the full development lifecycle.
+Senior Full Stack Engineer with 9+ years of experience building web applications and backend APIs. Strong in the Next.js–NestJS stack and the full development lifecycle.
 
 Passionate about reliable systems, clean code, and security. Continuously learning AI-driven technologies to drive product innovation.
 
