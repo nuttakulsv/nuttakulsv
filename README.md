@@ -4,6 +4,9 @@ Senior Full Stack Engineer with 9+ years of experience building web applications
 
 Passionate about reliable systems, clean code, and security. Continuously learning AI-driven technologies to drive product innovation.
 
+## 🔗 Other GitHub Accounts
+
+- My Work: https://github.com/nuttakulBeanX
 
 # **Skills** 🛠️
 
