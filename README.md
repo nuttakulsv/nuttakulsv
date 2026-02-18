@@ -6,7 +6,7 @@ Passionate about reliable systems, clean code, and security. Continuously learni
 
 ## 🔗 Other GitHub Accounts
 
-- My Work: https://github.com/nuttakulBeanX
+- My Wotk Github : https://github.com/nuttakulBeanX
 
 # **Skills** 🛠️
 
